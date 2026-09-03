@@ -23,6 +23,6 @@
 
 ## اعتبار سنجي آماري براي تست هموگلوبين انجام شد.
 برسي توزيع نرمال ، میانگین ± ۱ انحراف معیار	میانگین،± ۲ انحراف معیار و	میانگین ± ۳ انحراف معیار انجام شد و فايل مربوطه تحت عنوان Normal distribution of hb.ipynb قرار داده شده است. 
-![نمودار توزيع نرمال هموگلوبين](Normal_distribution_of_hb.JPG)
+![نمودار توزيع نرمال هموگلوبين](Normal_distribution_of_hb2.JPG)
 ## ابزارها
 Python, Pandas, Seaborn, IQR-based outlier detection
